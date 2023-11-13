@@ -45,6 +45,9 @@ nav_external_links:
   - title: Scorecard on Github
     url: https://github.com/ossf/scorecard/
     hide_icon: false # set to true to hide the external link icon - defaults to false
+  - title: OpenSSF Website
+    url: https://openssf.org/
+    hide_icon: false # # set to true to hide the external link icon - defaults to false
     
 aux_links:
   Template Repository: https://github.com/ariathaker/boom
