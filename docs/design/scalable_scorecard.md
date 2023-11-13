@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Scalable Scorecard
+nav_order: 7
 ---
 
 # Scalable Scorecard
