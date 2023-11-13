@@ -6,6 +6,10 @@ url: https://ariathaker.github.io/boom
 
 heading_anchors: true
 
+  Information about the OSV database and API.
+baseurl: "/boom" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  ariathaker
 
 
 nav_external_links:
