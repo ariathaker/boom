@@ -49,8 +49,8 @@ func main() {
 
 ---
 layout: page
-title: Checks
-permalink: /checks/
+title: Check Documentation
+permalink: /checkdocumentation/
 ---
 
 # Check Documentation
