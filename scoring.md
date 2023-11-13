@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Scoring
+nav_order: 5
 ---
 
 ## Scoring
