@@ -1,3 +1,8 @@
+---
+layout: default
+title: Scalable Scorecard
+---
+
 # Scalable Scorecard
 
 Scale OSSF Scorecard to 100k+ repositories.
