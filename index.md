@@ -15,8 +15,6 @@ layout: home
 [![SLSA 3](https://slsa.dev/images/gh-badge-level3.svg)](https://slsa.dev)
 [![Slack](https://img.shields.io/badge/slack-openssf/security_scorecards-white.svg?logo=slack)](https://slack.openssf.org/#security_scorecards)
 
-<img align="right" src="artwork/openssf_security_compressed.png" width="200" height="400">
-
 
 ### What is Scorecard?
 We created Scorecard to help open source maintainers improve their security
