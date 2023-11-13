@@ -4,5 +4,9 @@ theme: just-the-docs
 
 url: https://ariathaker.github.io/boom
 
+heading_anchors: true
+
 aux_links:
   Template Repository: https://github.com/ariathaker/boom
+
+  
