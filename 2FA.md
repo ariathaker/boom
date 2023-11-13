@@ -5,7 +5,7 @@ nav_order: 4
 ---
 
 
-## Two-factor Authentication (2FA)
+# Two-factor Authentication (2FA)
 
 [Two-factor Authentication (2FA)](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/about-two-factor-authentication) adds an extra layer of security when logging into websites or apps. 2FA protects your account if your password is compromised by requiring a second form of authentication, such as codes sent via SMS or authentication app, or touching a physical security key.
 
