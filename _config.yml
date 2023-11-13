@@ -36,7 +36,7 @@ callouts:
     color: red
 
 aux_links:
-  "OSV.dev on GitHub":
+  "boom on GitHub":
     - https://github.com/google/boom
 
     
