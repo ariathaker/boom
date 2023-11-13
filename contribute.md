@@ -4,7 +4,7 @@ title: Contribute
 nav_order: 6
 ---
 
-## Contribute
+# Contribute
 
 ### Report Problems
 
