@@ -1,5 +1,5 @@
-title: Aria test documentation
-description: A starter page for Aria!
+title: Aria test - Scorecard Docs
+description: Starter page for Scorecard docs
 theme: just-the-docs
 
 url: https://ariathaker.github.io/boom
@@ -18,11 +18,8 @@ aux_links:
 
 
 nav_external_links:
-  - title: OSV Schema
-    url: https://ossf.github.io/osv-schema/
-    hide_icon: false # set to true to hide the external link icon - defaults to false
-  - title: OSV-Scanner
-    url: https://google.github.io/osv-scanner/
+  - title: Scorecard on Github
+    url: https://github.com/ossf/scorecard/
     hide_icon: false # set to true to hide the external link icon - defaults to false
     
 aux_links:
