@@ -36,4 +36,4 @@ Name        | Description                               | Risk Level | Token Req
 ### Detailed Checks Documentation
 
 To see detailed information about each check, its scoring criteria, and
-remediation steps, check out the [checks documentation page](docs/checks.md).
+remediation steps, check out the [checks documentation page](docs/check_documentation.md).
