@@ -4,7 +4,7 @@ layout: default
 nav_order: 2
 ---
 
-## Using Scorecard
+# Using Scorecard
 
 ### Scorecard GitHub Action
 
