@@ -1,6 +1,7 @@
 ---
 title: Using Scorecard
 layout: default
+nav_order: 2
 ---
 
 ## Using Scorecard
