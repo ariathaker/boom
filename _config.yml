@@ -6,7 +6,6 @@ url: https://ariathaker.github.io/boom
 
 heading_anchors: true
 
-baseurl: "/boom" # the subpath of your site, e.g. /blog
 
     remote_theme: just-the-docs/just-the-docs
 plugins:
