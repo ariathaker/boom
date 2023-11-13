@@ -1,10 +1,3 @@
----
-layout: default
-title: Checks
-has_children: true
-nav_order: 3
----
-
 
 ## Checks
 
