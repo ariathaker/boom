@@ -1,3 +1,8 @@
+---
+title: My First Page
+layout: default
+---
+
 # OpenSSF Scorecard
 
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/ossf/scorecard/badge)](https://securityscorecards.dev/viewer/?uri=github.com/ossf/scorecard)
