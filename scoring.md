@@ -4,7 +4,7 @@ title: Scoring
 nav_order: 5
 ---
 
-## Scoring
+# Scoring
 
 ### Aggregate Score
 Each individual check returns a score of 0 to 10, with 10 representing the best
