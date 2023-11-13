@@ -35,12 +35,17 @@ callouts:
     title: Warning
     color: red
 
-aux_links:
-  "boom on GitHub":
-    - https://github.com/google/boom
-
+nav_external_links:
+  - title: OSV Schema
+    url: https://ossf.github.io/osv-schema/
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+  - title: OSV-Scanner
+    url: https://google.github.io/osv-scanner/
+    hide_icon: false # set to true to hide the external link icon - defaults to false
     
 aux_links:
   Template Repository: https://github.com/ariathaker/boom
+
+  
 
   
