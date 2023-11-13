@@ -1,3 +1,8 @@
+---
+title: Other Important Recommendations
+layout: default
+---
+
 ## Other Important Recommendations
 
 ### Two-factor Authentication (2FA)
