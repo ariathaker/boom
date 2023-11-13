@@ -1,11 +1,10 @@
 ---
-title: Other Important Recommendations
+title: Two-factor Authentication
 layout: default
 ---
 
-## Other Important Recommendations
 
-### Two-factor Authentication (2FA)
+## Two-factor Authentication (2FA)
 
 [Two-factor Authentication (2FA)](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/about-two-factor-authentication) adds an extra layer of security when logging into websites or apps. 2FA protects your account if your password is compromised by requiring a second form of authentication, such as codes sent via SMS or authentication app, or touching a physical security key.
 
@@ -13,9 +12,9 @@ We strongly recommend that you enable 2FA on GitHub and any important account wh
 
 Though it is not an official check, we urge all project maintainers to enable 2FA to protect their projects from compromise.
 
-#### Enabling 2FA
+### Enabling 2FA
 
-##### For users
+#### For users
 
 Follow the steps described at [Configuring two-factor authentication](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication)
 
@@ -26,7 +25,7 @@ If possible, use either:
 
 As a last option, use SMS. Beware: 2FA using SMS is vulnerable to [SIM swap attack](https://en.wikipedia.org/wiki/SIM_swap_scam).
 
-##### For an organization
+#### For an organization
 
 1. [Prepare to require 2FA in your organization](https://docs.github.com/en/organizations/keeping-your-organization-secure/managing-two-factor-authentication-for-your-organization/preparing-to-require-two-factor-authentication-in-your-organization)
 2. [Require 2FA in your organization](https://docs.github.com/en/organizations/keeping-your-organization-secure/managing-two-factor-authentication-for-your-organization/requiring-two-factor-authentication-in-your-organization)
