@@ -1,3 +1,8 @@
+---
+layout: default
+title: FAQ
+---
+
 # Frequently Asked Questions
 
 This page answers frequently asked questions about Scorecard, including its purpose, usage, and checks. This page is continually updated. If you would like to add a question, please [contribute](../CONTRIBUTING.md)!
