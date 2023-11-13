@@ -6,10 +6,37 @@ url: https://ariathaker.github.io/boom
 
 heading_anchors: true
 
-  Information about the OSV database and API.
+  Information about the boom database and API.
 baseurl: "/boom" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ariathaker
+
+color_scheme: better_contrast
+markdown: kramdown
+
+logo: "/assets/logo.png"
+favicon_ico: "/assets/icon.png"
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+
+aux_links:
+  "boom on GitHub":
+    - https://github.com/ariathaker/boom
 
 
 nav_external_links:
