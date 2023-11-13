@@ -3,7 +3,7 @@ title: Home
 layout: home
 ---
 
-heading_anchors: true
+
 ## Overview 
 
 -   [What Is Scorecard?](#what-is-scorecard)
