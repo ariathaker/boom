@@ -35,6 +35,7 @@ url: "https://ariathaker.github.io"
 remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-feed
+  - jekyll-default-layout
 
 color_scheme: better_contrast
 markdown: kramdown
