@@ -29,7 +29,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ariathaker
 heading_anchors: true
 
-url: https://ariathaker.github.io/boom
+url: "https://ariathaker.github.io"
 
 # Build settings
 remote_theme: just-the-docs/just-the-docs
