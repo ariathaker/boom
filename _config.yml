@@ -37,9 +37,6 @@ plugins:
   - jekyll-feed
   - jekyll-default-layout
 
-color_scheme: better_contrast
-markdown: kramdown
-
 callouts_level: quiet # or loud
 callouts:
   highlight:
