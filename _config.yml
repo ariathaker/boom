@@ -23,7 +23,7 @@ title: Aria test - Scorecard Docs
 
 description: >-
   Starter page for Scorecard docs.
-theme: just-the-docs
+remote-theme: just-the-docs/just-the-docs
 baseurl: "/boom" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ariathaker
